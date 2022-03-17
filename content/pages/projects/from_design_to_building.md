@@ -50,7 +50,7 @@ Present a calculation which „proves" that the coat-stand has an adequate facto
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 742a09c1-4e6b-bb84-2876-df7f49b17c61 "Coat-stand." >}}
+{{< resource "742a09c1-4e6b-bb84-2876-df7f49b17c61" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

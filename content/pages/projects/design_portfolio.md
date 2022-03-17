@@ -157,7 +157,7 @@ Keep the Following in Mind as You Create Your Portfolio
 
 2\. Once Photoshop is running choose File -> Import -> Twain Acquire from the menu.
 
-{{< resource 34a33607-ba39-dfd2-cba5-88e7372a1fdf "Twain Acquire menu in Photoshop." >}}
+{{< resource "34a33607-ba39-dfd2-cba5-88e7372a1fdf" >}}
 
 3\. Next, a dialog box will appear to start scanning your images. Once you have your document in the scanner facing down, make sure that the following settings are correct:
 
@@ -171,7 +171,7 @@ Keep the Following in Mind as You Create Your Portfolio
 
 3.5. Scale: 100%
 
-{{< resource 9f5cd43a-52e7-78a1-8d39-ef1b43380435 "Epson Twain screenshot." >}}
+{{< resource "9f5cd43a-52e7-78a1-8d39-ef1b43380435" >}}
 
 4\. Now you are ready to start scanning:
 
@@ -190,15 +190,15 @@ Keep the Following in Mind as You Create Your Portfolio
 
 2\. Next, under the menu bar select Utilities -> Image -> Capture:
 
-{{< resource 5c6286a0-9e87-ad13-9c49-454fa8c0e449 "Microstation screenshot." >}}
+{{< resource "5c6286a0-9e87-ad13-9c49-454fa8c0e449" >}}
 
 3\. Now a window will pop up with a button titled Capture Screen which enables you make the screen shots:
 
-{{< resource 68832cb2-4776-7508-d06f-a36d2146ffa3 "Capture Screein in Microstation." >}}
+{{< resource "68832cb2-4776-7508-d06f-a36d2146ffa3" >}}
 
 4\. Once you clicked on Capture Screen a window will show up asking you to specify the name of the image file, the destination drive, compression and mode:
 
-{{< resource af0e6493-19c7-b264-b2e2-565ebfce3d64 "Screen window in Microstation." >}}
+{{< resource "af0e6493-19c7-b264-b2e2-565ebfce3d64" >}}
 
 That's it! Note that this will create an image at screen resolution, which is nominally 72 dpi. That is great for the WWW, as that is as good as screens are, and so the file will download quickly. However, for printing purposes, 72 dpi is not so great. Most printers are 600 dpi or better, and so the screen dumped images will not look good.
 
@@ -209,9 +209,9 @@ To get around this, many applications now come with JPG or GIF image exporters. 
 
 1\. The software to download the pictures from the digital camera is called PhotoEnhancer for Kodak and you will find it under CEEMAC-252-1/2 -> Other Applications -> PhotoEnhancer for Kodak f.
 
-{{< resource 78e7f5df-d392-22e3-07d9-76ec011ca78b "CEEMAC-252-2." >}}
+{{< resource "78e7f5df-d392-22e3-07d9-76ec011ca78b" >}}
 
-{{< resource b2c8424c-69f4-8d7b-6b6f-0075874fe8fb "Chooser window in Apple." >}}
+{{< resource "b2c8424c-69f4-8d7b-6b6f-0075874fe8fb" >}}
 
 2\. Next, the camera must be connected to the printer port of the computer and turned on.
 
@@ -219,21 +219,21 @@ Make sure that AppleTalk is turned off before you continue. To turn AppleTalk of
 
 3\. A dialog box will appear and you have to click on Inactive.
 
-{{< resource c22fff12-3f52-096e-98de-275646d2e542 "Chooser window in Apple." >}}
+{{< resource "c22fff12-3f52-096e-98de-275646d2e542" >}}
 
-{{< resource a3274216-7f50-2e24-d6f7-fe5d792a3f07 "Camera menu option in Apple." >}}
+{{< resource "a3274216-7f50-2e24-d6f7-fe5d792a3f07" >}}
 
 3\. Once the software is open, you can view pictures from the camera by choosing Camera -> View Slides from Camera from the menu, to display the pictures currently in the camera as slides.
 
 4\. A dialog box appears so you can select to view the pictures stored on the camera and the range of pictures that you would like to open. For example, you may want to select the last 5 pictures out of 26. Click the From option and type 21 to 26 in the text edit box to open only those pictures.
 
-{{< resource 7c00ddf5-f56a-b450-79a4-5152f9983055 "Dialog box in Camera menu option in Apple." >}}
+{{< resource "7c00ddf5-f56a-b450-79a4-5152f9983055" >}}
 
 5\. Once you have decided which pictures to save on disk, click once on the picture you want to save or hold the shift key and click to save multiple pictures at one time.
 
 6\. Choose from the menu File-> Save As. The Save As dialog box appears. Locate the folder and drive where you want to save your picture. When saving a single picture enter a new file name if desired. Choose JPEG or TIFF under File Format and click save.
 
-{{< resource 142f59d8-904a-7b57-46ad-dc84f8ae2018 "Save-as dialog box in CEEMAC-252-2." >}}
+{{< resource "142f59d8-904a-7b57-46ad-dc84f8ae2018" >}}
 
 {{< anchor "4" >}}{{< /anchor >}}How to use the SGI cameras
 -----------------------------------------------------------
@@ -244,7 +244,7 @@ To use an SGI camera type in the xterm window:
 
 capture
 
-{{< resource 18a853c5-9ecb-1638-d779-fa53d6967235 "SGI Camera type in Xterm window." >}}
+{{< resource "18a853c5-9ecb-1638-d779-fa53d6967235" >}}
 
 2\. A camera window will show up, set the bottom left button to camera icon (instead of a mike or video).
 
@@ -256,11 +256,11 @@ From the menu bar select: Actions -> Setting, and a dialog box will show up. Som
 
 2.3. Click on Fixed Aspect Ratio
 
-{{< resource 2956f3cb-c29f-2175-524f-7eac41cb99fd "Actions Settings in Xterm window." >}}
+{{< resource "2956f3cb-c29f-2175-524f-7eac41cb99fd" >}}
 
 2.4. Click on Close once you are done
 
-{{< resource f14ea275-aaa7-8b84-d19f-7182eb185f01 "Final close-up on Xterm window." >}}
+{{< resource "f14ea275-aaa7-8b84-d19f-7182eb185f01" >}}
 
 3\. Clicking the record button will make a RGB file in your home directory.
 
@@ -462,7 +462,7 @@ First you will need to start Pagemaker® by double clicking on the icon on the d
 
 Once Pagemaker® is open you are ready to start building your portfolio:
 
-{{< resource 7f0a89c1-ebd7-3bd5-dd6a-39997e1a54ca "Adobe Pagemaker window." >}}
+{{< resource "7f0a89c1-ebd7-3bd5-dd6a-39997e1a54ca" >}}
 
 **Setting up pages**
 
@@ -474,7 +474,7 @@ To start you need to choose File -> New to begin a new file, the Document Setup 
 
 2\. Specify page size and page attributes in the Document Setup dialog box as follows:
 
-{{< resource 3a8dc17d-b2a1-38fa-cfb8-c25de0a97085 "Document Setup dialog box in Pagemaker." >}}
+{{< resource "3a8dc17d-b2a1-38fa-cfb8-c25de0a97085" >}}
 
 *   Select a standard page size from the Page Size pop-up menu.
 *   Use the Dimensions text boxes to specify a custom page size.
@@ -489,7 +489,7 @@ Screen Layout
 
 Your screen now should look something like this:
 
-{{< resource dff1d78b-b65e-661c-db30-dba3d40495ba "Document Setup dialog box in Pagemaker." >}}
+{{< resource "dff1d78b-b65e-661c-db30-dba3d40495ba" >}}
 
 **Changing Document Setup options after you started**
 
@@ -499,7 +499,7 @@ Although the Document Setup dialog appears when you choose File -> New to create
 
 Choose Window -> Show Tools or Window -> Hide Tools to display or hide the toolbox.
 
-{{< resource eaadbd8d-6e9e-2e56-f0ba-80a9b067ca2a "Toolbox Palette." >}}
+{{< resource "eaadbd8d-6e9e-2e56-f0ba-80a9b067ca2a" >}}
 
 {{< tableopen >}}
 
@@ -636,7 +636,7 @@ Master pages can save time and ensure consistency across pages in your portfolio
 
 To format the master pages double click on the master pages which are on the lower left corner of your screen:
 
-{{< resource f4a1a654-0371-ec93-20cf-87b762506c88 "Formatting the master pages in Pagemaker." >}}
+{{< resource "f4a1a654-0371-ec93-20cf-87b762506c88" >}}
 
 Graphics and Text Objects: Using frames
 ---------------------------------------
@@ -650,7 +650,7 @@ Graphics and Text Objects: Using frames
 
 By drawing empty frames as placeholders and threading text frames together, you create a template in which the layout and structure of the portfolio is set and content is easily poured into assigned spaces.
 
-Creating a frame{{< resource 3f4d6924-5087-f75d-1fc6-7e166325eb17 "A Frame." >}}
+Creating a frame{{< resource "3f4d6924-5087-f75d-1fc6-7e166325eb17" >}}
 
 To create a frame you use the frame tools in the toolbox. You can also turn any object you've created with the drawing tools (with the exception of straight lines) into a frame. If you add a frame to a master page, its border and content appears on each portfolio page to which the master is applied.
 
@@ -730,7 +730,7 @@ Printing Your Portfolio
 
 **The Print Document dialog box**:
 
-{{< resource 02d62abf-d04e-2df3-3dd8-623d367fb675 "Print Document Dialog Box." >}}
+{{< resource "02d62abf-d04e-2df3-3dd8-623d367fb675" >}}
 
 When you choose File -> Print, the printing dialog boxes shows up for the type of printer you selected.
 
@@ -753,7 +753,7 @@ PageMaker® can export into two online formats:
 
 **Preparing your portfolio for HTML**
 
-**{{< resource 38491674-3d99-e697-007a-02f08cf8a081 "Export HTML window." >}}**
+**{{< resource "38491674-3d99-e697-007a-02f08cf8a081" >}}**
 
 **To convert your portfolio into an HTML file**:
 
