@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -43,14 +44,14 @@ Learning of Design
 
 (with selected feedback cycles)
 
-{{< resource 2a0eca1c-c36a-b431-f250-b6e6082ddc6a "Design Sequence." >}}
+{{< resource "2a0eca1c-c36a-b431-f250-b6e6082ddc6a" >}}
 
 The Decision Analysis Cycle
 ---------------------------
 
 (after Stael von Holstein, 1973)
 
-{{< resource 597fa4be-b4a8-6ef1-bb30-8dcc7d1b7c1f "The Design Analysis Cycle." >}}
+{{< resource "597fa4be-b4a8-6ef1-bb30-8dcc7d1b7c1f" >}}
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -142,28 +143,28 @@ Design Process
 
 _The "Design Circle"_
 
-{{< resource ba2fa372-23e0-8d33-e444-119cdbf4ffa0 "The Design Circle." >}}
+{{< resource "ba2fa372-23e0-8d33-e444-119cdbf4ffa0" >}}
 
 _The "Design Spiral"_
 
-{{< resource 3d5656fb-1db5-6503-6ff6-fa900a9dadfb "The Design Spiral." >}}
+{{< resource "3d5656fb-1db5-6503-6ff6-fa900a9dadfb" >}}
 
 Pugh Chart
 ----------
 
-{{< resource bea18b48-f25f-7ebd-a981-b03143ccc20b "Pugh Chart." >}}
+{{< resource "bea18b48-f25f-7ebd-a981-b03143ccc20b" >}}
 
 Pugh Chart / House of Quality
 -----------------------------
 
-{{< resource ac6e74cf-01ed-ce91-59ad-19d7ada14751 "Pugh Chart / House of Quality." >}}
+{{< resource "ac6e74cf-01ed-ce91-59ad-19d7ada14751" >}}
 
 Screening Matrix
 ----------------
 
-{{< resource b4a87b86-1438-8b19-b2d3-7eb8cc378969 "Screening Matrix." >}}
+{{< resource "b4a87b86-1438-8b19-b2d3-7eb8cc378969" >}}
 
 Scoring Matrix
 --------------
 
-{{< resource f96097b0-cb2a-68ad-daa3-2c58e5f8e444 "Scoring Matrix." >}}
+{{< resource "f96097b0-cb2a-68ad-daa3-2c58e5f8e444" >}}
