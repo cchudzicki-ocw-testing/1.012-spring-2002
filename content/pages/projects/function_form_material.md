@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -28,7 +29,7 @@ Material
 
 Since this is for most of you an initial design experience, the problem will be somewhat constrained. Each of you will, therefore, work with a given set of materials. Specifically, you will receive 2 aluminum cubes, 6 plexiglass cubes, 9 trapezoidal prisms and 6 equilateral triangular prisms made of plexiglass. In addition, you will get a small tube of glue, tape and a set of rubber bands:
 
-{{< resource b32e8996-daa9-c250-809a-a7aac3515385 "Cube, trapezoidal prism and traingular prism." >}}
+{{< resource "b32e8996-daa9-c250-809a-a7aac3515385" >}}
 
 Task 1 - Building of Free Structures
 ------------------------------------
